@@ -13,8 +13,7 @@ classifiers = [
     "License :: OSI Approved :: Apache 2 Software License ",
 ]
 dependencies = [
-    "fire", "sentencepiece",
-    "torch", "xformers"
+    "fire", "sentencepiece", "xformers"
 ]
 
 
