@@ -1,4 +1,3 @@
 fire
 sentencepiece
-torch
 xformers
